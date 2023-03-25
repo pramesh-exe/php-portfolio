@@ -1,0 +1,63 @@
+#FirstPara{
+    font-weight: 800;
+}
+
+.ColoredPara{
+    padding-left: 50px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Bold{
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+#spacing{
+    letter-spacing: 0.4rem;
+    color: purple;
+}
+
+#links{
+    list-style-type: none;
+    display: flex;
+}
+
+#box{
+    display: inline;
+    border: 2px solid green;
+    background-color: grey;
+    margin-left: 45px;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+a{
+    color: purple;
+}
+
+.box{
+    display: flex;
+}
+
+.box .Column1{
+    border: 2px solid green;
+    margin: 10px;
+    padding: 20px;
+    padding-right: 4%;
+}
+
+.box .Column2{
+    border: 2px solid green;
+    margin: 10px;
+    padding: 20px;
+    padding-right: 18%;
+}
+
+.box .Column3{
+    border: 2px solid green;
+    margin: 10px;
+    padding: 20px;
+    padding-right: 10%;
+}
